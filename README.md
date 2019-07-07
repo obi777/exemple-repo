@@ -1,1 +1,1 @@
-**Ceci est une exemple**
+**Ceci est un exemple**
